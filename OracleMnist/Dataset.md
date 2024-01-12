@@ -1,4 +1,4 @@
-# Oracle-MNIST
+# Oracle-MNIST Dataset
 
 `Oracle-MNIST` dataset comprises of 28×28 grayscale images of 30,222 ancient characters from 10 categories, for benchmarking pattern classification, with particular challenges on image noise and distortion. The training set totally consists of 27,222 images, and the test set contains 300 images per class. 
 
@@ -13,7 +13,9 @@ Oracle characters are the oldest hieroglyphs in China. Here's an example of how 
 
 ## Get the Data
 
-You can directly download the dataset from [Google drive](https://drive.google.com/drive/folders/1JtckCILRwVloa54_DQA5zBTv4e5NJCgs?usp=sharing) or [Baidu drive](https://pan.baidu.com/s/1HXbr-23ib4aISOQKXy3HzQ) (code: 5pq5). The data is stored in the **same** format as the original MNIST data. The result files are listed in following table.
+You can directly download the dataset from [Google drive](https://drive.google.com/drive/folders/1JtckCILRwVloa54_DQA5zBTv4e5NJCgs?usp=sharing) or [Baidu drive](https://pan.baidu.com/s/1HXbr-23ib4aISOQKXy3HzQ) (code: 5pq5). The data is stored in the **same** format as the original MNIST data. Github link to dataset [Oracle](https://github.com/wm-bupt/oracle-mnist).
+
+The result files are listed in following table.
 
 | Name  | Content | Examples | Size |
 | --- | --- |--- | --- |
