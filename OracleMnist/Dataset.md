@@ -1,7 +1,5 @@
 # Oracle-MNIST
 
-[![Readme-CN](https://img.shields.io/badge/README-中文-green.svg)](README.zh-CN.md)
-
 `Oracle-MNIST` dataset comprises of 28×28 grayscale images of 30,222 ancient characters from 10 categories, for benchmarking pattern classification, with particular challenges on image noise and distortion. The training set totally consists of 27,222 images, and the test set contains 300 images per class. 
 
 **1. Easy-of-use.** `Oracle-MNIST` shares the same data format with [the original MNIST dataset](http://yann.lecun.com/exdb/mnist/), allowing for direct compatibility with all existing classiﬁers and systems.
